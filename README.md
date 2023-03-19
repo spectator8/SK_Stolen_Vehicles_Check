@@ -1,1 +1,1 @@
-# Verification of the stolen vehicle according to registration number in Slovakia
+# Verification of the stolen vehicle according to registration number / VIN in Slovakia
